@@ -30,7 +30,7 @@ This project had three phases: data preprocessing, text analysis, and model buil
 This project used six evaluation metrics to determine how accurate the models were at predicting the number of book ratings: confusion matrix, accuracy percentage, precision, recall, f1-score, and ROC area-under-curve score. Below a table of the results for each classifier for easy comparison.
 
 ## Lessons Learned
-This data was difficult to classify using machine learning algorithms. The could be due to decision I tried to predict, how many people read the description and decided to read the book and rate it on GoodReads. This is not a simple decision. The customer’s choice is influenced by many factors not included in this project, such as price or available platforms (paper vs digital etc.). The choice is also not made quickly and is therefore harder to predict. In order to more accurately predict if customers choose to buy a book based on its description, I would need more direct data. The actual sales data of these books would be ideal.
+This data was difficult to classify using machine learning algorithms. This could be due to decision I tried to predict, how many people read the description and decided to read the book and rate it on GoodReads. This is not a simple decision. The customer’s choice is influenced by many factors not included in this project, such as price or available platforms (paper vs digital etc.). The choice is also not made quickly and is therefore harder to predict. In order to more accurately predict if customers choose to buy a book based on its description, I would need more direct data. The actual sales data of these books would be ideal.
 
 ## Results
 Romance Books:
